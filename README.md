@@ -1,5 +1,7 @@
 # awesome-chrome-extensions
 
+My favorite chrome extensions
+
 - [AdBlock](https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom)
 - [Allow CORS: Access-Control-Allow-Origin](https://chrome.google.com/webstore/detail/lhobafahddgcelffkeicbaginigeejlf)
 - [Auto hide next up card for Amazon Prime Video](https://chromewebstore.google.com/detail/pnpkddhaeadgjpmmcahamnicmplobkci)
