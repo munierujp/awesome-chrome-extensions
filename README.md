@@ -29,7 +29,6 @@ My favorite chrome extensions
 - [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - [Reader Mode](https://chromewebstore.google.com/detail/llimhhconnjiflfimocjggfjdlmlhblm)
 - [Refined GitHub](https://chrome.google.com/webstore/detail/hlepfoohegkhhmjieoechaddaejaokhf)
-- [Return Tweet Source Label](https://chromewebstore.google.com/detail/mhkngabolhbckfjpmjclhockpdclfppc)
 - [RSS Subscription Extension](https://chrome.google.com/webstore/detail/nlbjncdgjeocebhnmkbbbdekmmmcbfjd)
 - [RSSHub Radar](https://chromewebstore.google.com/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa)
 - [Ruffle](https://chromewebstore.google.com/detail/ruffle-flash-emulator/donbcfbmhbcapadipfkeojnmajbakjdc)
