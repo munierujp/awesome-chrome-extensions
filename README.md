@@ -7,6 +7,7 @@ My favorite chrome extensions
 - [Auto hide next up card for Amazon Prime Video](https://chromewebstore.google.com/detail/pnpkddhaeadgjpmmcahamnicmplobkci)
 - [Auto Refresh Plus | Page Monitor](https://chromewebstore.google.com/detail/hgeljhfekpckiiplhkigfehkdpldcggm)
 - [Chrome extension source viewer](https://chrome.google.com/webstore/detail/jifpbeccnghkjeaalbbjmodiffmgedin)
+- [Control Panel for Twitter](https://chromewebstore.google.com/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj)
 - [Dark Reader](https://chrome.google.com/webstore/detail/eimadpbcbfnmbkopoojfekhnkhdbieeh)
 - [Distill Web Monitor](https://chromewebstore.google.com/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge?hl=ja)
 - [Douga Getter](https://chrome.google.com/webstore/detail/hhbcihapcmaemjinlbgafnjjihbdmjnf)
