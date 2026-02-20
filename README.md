@@ -13,7 +13,6 @@ My favorite chrome extensions
 - [Douga Getter](https://chrome.google.com/webstore/detail/hhbcihapcmaemjinlbgafnjjihbdmjnf)
 - [Export cookie JSON file for Puppeteer](https://chrome.google.com/webstore/detail/nmckokihipjgplolmcmjakknndddifde)
 - [File Icon for GitHub, GitLab and Bitbucket](https://chrome.google.com/webstore/detail/ficfmibkjjnpogdcfhfokmihanoldbfe)
-- [Go Back With Backspace](https://chrome.google.com/webstore/detail/eekailopagacbcdloonjhbiecobagjci)
 - [goodbye-rfc-2822-date-time](https://chrome.google.com/webstore/detail/ncpepaiocdmmmonbikofmggdphoheoge)
 - [Google Apps Script GitHub Assistant](https://chrome.google.com/webstore/detail/lfjcgcmkmjjlieihflfhjopckgpelofo)
 - [Google Translate](https://chrome.google.com/webstore/detail/aapbdbdomjkkjkaonfhkkikfgjllcleb)
