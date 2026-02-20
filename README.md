@@ -11,7 +11,6 @@ My favorite chrome extensions
 - [Dark Reader](https://chrome.google.com/webstore/detail/eimadpbcbfnmbkopoojfekhnkhdbieeh)
 - [Distill Web Monitor](https://chromewebstore.google.com/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge?hl=ja)
 - [Douga Getter](https://chrome.google.com/webstore/detail/hhbcihapcmaemjinlbgafnjjihbdmjnf)
-- [Export cookie JSON file for Puppeteer](https://chrome.google.com/webstore/detail/nmckokihipjgplolmcmjakknndddifde)
 - [File Icon for GitHub, GitLab and Bitbucket](https://chrome.google.com/webstore/detail/ficfmibkjjnpogdcfhfokmihanoldbfe)
 - [goodbye-rfc-2822-date-time](https://chrome.google.com/webstore/detail/ncpepaiocdmmmonbikofmggdphoheoge)
 - [Google Apps Script GitHub Assistant](https://chrome.google.com/webstore/detail/lfjcgcmkmjjlieihflfhjopckgpelofo)
