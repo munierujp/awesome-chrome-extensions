@@ -42,7 +42,7 @@
             height="22"></a></td>
       <td><a href="https://chromewebstore.google.com/detail/hgeljhfekpckiiplhkigfehkdpldcggm">Auto Refresh Plus | Page
           Monitor</a></td>
-      <td>ページの自動更新や変更監視を行う。</td>
+      <td>ウェブページの自動更新や変更監視を行う。</td>
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/jifpbeccnghkjeaalbbjmodiffmgedin"><img
@@ -84,7 +84,7 @@
             src="https://lh3.googleusercontent.com/FgH-RSCSHFIIFgeYP_gCqByVOR8CZZjXBZIrMEph4477wYBGyhyGO5Mgv7k3Ma3r1vCu5IqkX3mq4DQY9aASDCHpUA=s60"
             height="22"></a></td>
       <td><a href="https://chrome.google.com/webstore/detail/hhbcihapcmaemjinlbgafnjjihbdmjnf">Douga Getter</a></td>
-      <td>対応サイトから動画ファイルを検出・保存する。</td>
+      <td>動画サイトから動画ファイルを検出・保存する。</td>
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/ficfmibkjjnpogdcfhfokmihanoldbfe"><img
@@ -92,7 +92,7 @@
             height="22"></a></td>
       <td><a href="https://chrome.google.com/webstore/detail/ficfmibkjjnpogdcfhfokmihanoldbfe">File Icon for GitHub,
           GitLab and Bitbucket</a></td>
-      <td>リポジトリ内のファイル種別に応じたアイコンを表示する。</td>
+      <td>GitHubリポジトリ内のファイル種別に応じたアイコンを表示する。</td>
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/ncpepaiocdmmmonbikofmggdphoheoge"><img
@@ -154,7 +154,7 @@
             height="22"></a></td>
       <td><a href="https://chromewebstore.google.com/detail/linkclump-plus/ainlglbojoodfdbndbfofojhmjbmelmm">Linkclump
           Plus</a></td>
-      <td>複数リンクをまとめて選択・一括操作する。</td>
+      <td>選択した範囲のリンクをまとめて開く。</td>
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/idgpnmonknjnojddfkpgkljpfnnfcklj"><img
@@ -182,7 +182,7 @@
             src="https://lh3.googleusercontent.com/NbieoNxUWXu9BJQ79Dnu1CjmdsK8RRCBUQG7bpeJwWUXUd-_EWYPhBJ4McmSuViRWv3Z_nh6g73nW56-n6gUuv4KEQ=s60"
             height="22"></a></td>
       <td><a href="https://chrome.google.com/webstore/detail/ejcfdikabeebbgbopoagpabbdokepnff">Rajiko</a></td>
-      <td>radikoのエリア制限を回避して聴取を可能にする。</td>
+      <td>radikoのエリア制限を回避して全国のラジオの聴取を可能にする。</td>
     </tr>
     <tr>
       <td><a href="https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi"><img
@@ -191,7 +191,7 @@
       <td><a
           href="https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi">React
           Developer Tools</a></td>
-      <td>Reactアプリのコンポーネント構造を検査する。</td>
+      <td>Reactアプリの開発を支援する。</td>
     </tr>
     <tr>
       <td><a href="https://chromewebstore.google.com/detail/llimhhconnjiflfimocjggfjdlmlhblm"><img
@@ -252,14 +252,14 @@
             src="https://lh3.googleusercontent.com/rCAYl7Qa-Yk5ZSMkPoYTEfT4Wl7a9llh0-oyTams8f-l1z9VemxR9U41xhAaBCCB2jw-Z2f_VDSlYDA8KF01PKWt9Wk=s60"
             height="22"></a></td>
       <td><a href="https://chrome.google.com/webstore/detail/iogidnfllpdhagebkblkgbfijkbkjdmm">Stream Recorder</a></td>
-      <td>対応サイトの動画ストリームを保存する。</td>
+      <td>動画サイトの動画ストリームを保存する。</td>
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/clngdbkpkpeebahjckkjfobafhncgmne"><img
             src="https://lh3.googleusercontent.com/2K8pc_5-2DkPam9b3oAWoITZ7IuIz68A5a8Ssg2_MNNHTPWPOPSBVTFdTmeVu9hi8GJxpKbvTekgwpeyGV6vXyBKH80=s60"
             height="22"></a></td>
       <td><a href="https://chrome.google.com/webstore/detail/clngdbkpkpeebahjckkjfobafhncgmne">Stylus</a></td>
-      <td>サイトごとにカスタムCSSを適用する。</td>
+      <td>ユーザースタイルシートを管理・適用する。</td>
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm"><img
@@ -298,7 +298,7 @@
             height="22"></a></td>
       <td><a href="https://chromewebstore.google.com/detail/url-param-editor/bapmonmhbhleaaeedhllgagomhfdiohh">URL Param
           Editor</a></td>
-      <td>URLのクエリパラメータを編集・追加・削除する。</td>
+      <td>URLのクエリパラメータを編集する。</td>
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/djflhoibgkdhkhhcedjiklpkjnoahfmg"><img
@@ -306,21 +306,21 @@
             height="22"></a></td>
       <td><a href="https://chrome.google.com/webstore/detail/djflhoibgkdhkhhcedjiklpkjnoahfmg">User-Agent Switcher</a>
       </td>
-      <td>ブラウザのUser-Agentを切り替える。</td>
+      <td>ブラウザのユーザーエージェントを偽装する。</td>
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/jghecgabfgfdldnmbfkhmffcabddioke"><img
             src="https://lh3.googleusercontent.com/KVGRNfHgQNl3RtCAnq4bTHM23198SfyCES7LnrxnSp21B5xQ2WKRLpIMxaPSYYH0Xp99auk5OQQ6QHjpOL3OvqUi=s60"
             height="22"></a></td>
       <td><a href="https://chrome.google.com/webstore/detail/jghecgabfgfdldnmbfkhmffcabddioke">Volume Master</a></td>
-      <td>タブごとの音量を個別に調整・増幅する。</td>
+      <td>タブごとの音量を個別に調整する。</td>
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/nhdogjmejiglipccpnnnanhbledajbpd"><img
             src="https://lh3.googleusercontent.com/Lu_6rc-5upC8g1v-SIBrYwQ8a-1blC81ZLSQss66IpTZ2_sinL7fP2ielWj3znVoIEtobNo-jlI39IV-7qnEvJWZb9A=s60"
             height="22"></a></td>
       <td><a href="https://chrome.google.com/webstore/detail/nhdogjmejiglipccpnnnanhbledajbpd">Vue.js devtools</a></td>
-      <td>Vue.jsアプリのコンポーネント構造を検査する。</td>
+      <td>Vue.jsアプリの開発を支援する。</td>
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/gppongmhjkpfnbhagpmjfkannfbllamg"><img
@@ -334,7 +334,7 @@
             src="https://lh3.googleusercontent.com/KYBzL2C9gdO9Mb2EJoCEOJSoFvO0lsEWSacuDQqJOxtlQdkYxvUwV3DfF7fYtZfdmwHDhZHVzgo3_Aj4rqi5XHg=s60"
             height="22"></a></td>
       <td><a href="https://chrome.google.com/webstore/detail/hkligngkgcpcolhcnkgccglchdafcnao">Web Archives</a></td>
-      <td>各種ウェブアーカイブサービスへのリンクを追加する。</td>
+      <td>各種ウェブアーカイブサービスでウェブページの過去の状態を確認する。</td>
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/ldidobiipljjgfaglokcehmiljadanle"><img
