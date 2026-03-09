@@ -16,7 +16,6 @@ My favorite chrome extensions
       <td><a href="https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom"><img src="https://lh3.googleusercontent.com/mgNKV-3VMXD556WVUiWSbcukQQN-il4Zlqq03efTjG2B5j9YP7Fxr3idTQ_G0JFD7E6o4TMwvTQTleDn_8UdFLf5VQ=s60" height="22"></a></td>
       <td><a href="https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom">AdBlock</a></td>
     </tr>
-    <!-- TODO: ここまで確認済み -->
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/lhobafahddgcelffkeicbaginigeejlf"><img src="https://lh3.googleusercontent.com/o7n-TM_Iyn-cRoPSyqG5Ki7G_OibAvPMeSGjVbZo0zfJaeuPlnBa9twGwMVJM4Mv5nwMrc1excPbFBjpdxmaY5YW=s60" height="22"></a></td>
       <td><a href="https://chrome.google.com/webstore/detail/lhobafahddgcelffkeicbaginigeejlf">Allow CORS: Access-Control-Allow-Origin</a></td>
@@ -42,8 +41,8 @@ My favorite chrome extensions
       <td><a href="https://chrome.google.com/webstore/detail/eimadpbcbfnmbkopoojfekhnkhdbieeh">Dark Reader</a></td>
     </tr>
     <tr>
-      <td><a href="https://chromewebstore.google.com/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge?hl=ja"><img src="https://lh3.googleusercontent.com/32hPiwQO4rbURUMQf1ZGlL9OCS7_ZGbu14awE_rjNZrgiO-f1C-QpVOk_kYI3oFHjGez7pt0-DfbS8BmenNBcGWG=s60" height="22"></a></td>
-      <td><a href="https://chromewebstore.google.com/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge?hl=ja">Distill Web Monitor</a></td>
+      <td><a href="https://chromewebstore.google.com/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge"><img src="https://lh3.googleusercontent.com/32hPiwQO4rbURUMQf1ZGlL9OCS7_ZGbu14awE_rjNZrgiO-f1C-QpVOk_kYI3oFHjGez7pt0-DfbS8BmenNBcGWG=s60" height="22"></a></td>
+      <td><a href="https://chromewebstore.google.com/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge">Distill Web Monitor</a></td>
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/hhbcihapcmaemjinlbgafnjjihbdmjnf"><img src="https://lh3.googleusercontent.com/FgH-RSCSHFIIFgeYP_gCqByVOR8CZZjXBZIrMEph4477wYBGyhyGO5Mgv7k3Ma3r1vCu5IqkX3mq4DQY9aASDCHpUA=s60" height="22"></a></td>
