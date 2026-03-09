@@ -14,7 +14,7 @@ My favorite chrome extensions
   <tbody>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom"><img src="https://lh3.googleusercontent.com/mgNKV-3VMXD556WVUiWSbcukQQN-il4Zlqq03efTjG2B5j9YP7Fxr3idTQ_G0JFD7E6o4TMwvTQTleDn_8UdFLf5VQ=s60" height="22"></a></td>
-      <td><a href="https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom">AdBlock</a></td>
+      <td><a href="https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom">AdBlock — block ads across the web</a></td>
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/lhobafahddgcelffkeicbaginigeejlf"><img src="https://lh3.googleusercontent.com/o7n-TM_Iyn-cRoPSyqG5Ki7G_OibAvPMeSGjVbZo0zfJaeuPlnBa9twGwMVJM4Mv5nwMrc1excPbFBjpdxmaY5YW=s60" height="22"></a></td>
@@ -50,7 +50,7 @@ My favorite chrome extensions
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/ficfmibkjjnpogdcfhfokmihanoldbfe"><img src="https://lh3.googleusercontent.com/zu1vN870roV89kYZNUtGEzD9L_J4wW8XFIY5GLD1uQyrTuUKVY7oJzzBAjNDUnGTHEgk3YqfhUO3nTMk1es9bY5ke5Q=s60" height="22"></a></td>
-      <td><a href="https://chrome.google.com/webstore/detail/ficfmibkjjnpogdcfhfokmihanoldbfe">File Icon for GitHub, GitLab and Bitbucket</a></td>
+      <td><a href="https://chrome.google.com/webstore/detail/ficfmibkjjnpogdcfhfokmihanoldbfe">File Icons for GitHub and GitLab</a></td>
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/ncpepaiocdmmmonbikofmggdphoheoge"><img src="https://lh3.googleusercontent.com/VFR1VxOdj-5olvnQWGajOw5FCBz7kt8mtoXSI0YeNCQsk872bmFAC3bO6DF4j6k5VyGLCNi_HatsWL4FJGT7xI505Q=s60" height="22"></a></td>
@@ -70,7 +70,7 @@ My favorite chrome extensions
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen"><img src="https://lh3.googleusercontent.com/Ywdz5mn9q2Mx76DU45LSH-Pv5OGpqk8QAOY3lT1AWScMTZYQtAhqhVjtY5I2JZK530QIycLZooe2a0k3quGqYUaZ=s60" height="22"></a></td>
-      <td><a href="https://chrome.google.com/webstore/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen">Grammarly</a></td>
+      <td><a href="https://chrome.google.com/webstore/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen">Grammarly: AI Writing Assistant and Grammar Checker App</a></td>
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/bcjindcccaagfpapjjmafapmmgkkhgoa"><img src="https://lh3.googleusercontent.com/kAyuA6Uo8kCc8EQJNkvj0GHetWNpbwU9ssHPf0tKbDaVddJD3FebnaZM5boUoU4_WLOOlJEVxnLoQFhPg_WuGPSI=s60" height="22"></a></td>
@@ -78,7 +78,7 @@ My favorite chrome extensions
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/neebplgakaahbhdphmkckjjcegoiijjo"><img src="https://lh3.googleusercontent.com/zUc7eHFi6dIRS4Mednn9Q1aOZEP9lhjxXiMkAddWOc7pSEH5Xw4lbGpXdyCrZvfuL1IpN0FwFHwl5wX4WJtCbJXIbw=s60" height="22"></a></td>
-      <td><a href="https://chrome.google.com/webstore/detail/neebplgakaahbhdphmkckjjcegoiijjo">Keepa</a></td>
+      <td><a href="https://chrome.google.com/webstore/detail/neebplgakaahbhdphmkckjjcegoiijjo">Keepa™ - Amazon Price Tracker</a></td>
     </tr>
     <tr>
       <td><a href="https://chromewebstore.google.com/detail/linkclump-plus/ainlglbojoodfdbndbfofojhmjbmelmm"><img src="https://lh3.googleusercontent.com/7_grEdEa4NmgYLCNIUYeAKP6M-a_WgtRtx1f-DWINZS_BBw6l_VEx_y0YvlRIDJr6VmDEqcVAV0qut1pKoAFGFxuWg=s60" height="22"></a></td>
@@ -86,7 +86,7 @@ My favorite chrome extensions
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/idgpnmonknjnojddfkpgkljpfnnfcklj"><img src="https://lh3.googleusercontent.com/C7f0yxnCB_U4uAiHoPN2vHGzDH5VrN8R1h0WAPEMBJIWtJUtzs8VoI2TyqqLOs_m0ZFdlmBCGCot5_t5rjZ2qJiK8g=s60" height="22"></a></td>
-      <td><a href="https://chrome.google.com/webstore/detail/idgpnmonknjnojddfkpgkljpfnnfcklj">ModHeader</a></td>
+      <td><a href="https://chrome.google.com/webstore/detail/idgpnmonknjnojddfkpgkljpfnnfcklj">ModHeader - Modify HTTP headers</a></td>
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/dnclbikcihnpjohihfcmmldgkjnebgnj"><img src="https://lh3.googleusercontent.com/eNX8Xtj8jWiGl0kKnCnPb3TJodYisL-BzMG3MOIThtCYcVWspJ8BoTOXEEu2wiSuwAJftEquZ0je_9LTROH94vT6-w=s60" height="22"></a></td>
@@ -114,7 +114,7 @@ My favorite chrome extensions
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/nlbjncdgjeocebhnmkbbbdekmmmcbfjd"><img src="https://lh3.googleusercontent.com/I5JmCv1c5YIRJliuxGVO3WW_w04bPDonN-lx1AZw0XbbtDW9Wn33p1O1KarjU1qe4h_3gGVz8I60txe-NAxFtL2n3A=s60" height="22"></a></td>
-      <td><a href="https://chrome.google.com/webstore/detail/nlbjncdgjeocebhnmkbbbdekmmmcbfjd">RSS Subscription Extension</a></td>
+      <td><a href="https://chrome.google.com/webstore/detail/nlbjncdgjeocebhnmkbbbdekmmmcbfjd">RSS Subscription Extension（by Google）</a></td>
     </tr>
     <tr>
       <td><a href="https://chromewebstore.google.com/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa"><img src="https://lh3.googleusercontent.com/kub2caeSUBk0Al6xAj5zYgTYov49cU1I2FuwkoV031BKWD3g9Ynrj4ZofChlpf3Og4mCL3C8G3ahcdqq23mZMqbB3Q=s60" height="22"></a></td>
@@ -122,7 +122,7 @@ My favorite chrome extensions
     </tr>
     <tr>
       <td><a href="https://chromewebstore.google.com/detail/ruffle-flash-emulator/donbcfbmhbcapadipfkeojnmajbakjdc"><img src="https://lh3.googleusercontent.com/1YgYj0h_Jzjh9zmKczQqDP3B-K3EtVVKLAoBgGP9jhQ-Ly9TE7vBjv5xfW39yCLSzdvgaY6zax8hnw_oPZr0vEdL-A=s60" height="22"></a></td>
-      <td><a href="https://chromewebstore.google.com/detail/ruffle-flash-emulator/donbcfbmhbcapadipfkeojnmajbakjdc">Ruffle</a></td>
+      <td><a href="https://chromewebstore.google.com/detail/ruffle-flash-emulator/donbcfbmhbcapadipfkeojnmajbakjdc">Ruffle - Flash Emulator</a></td>
     </tr>
     <tr>
       <td><a href="https://chromewebstore.google.com/detail/gabfmnliflodkdafenbcpjdlppllnemd"><img src="https://lh3.googleusercontent.com/SwEcn-FkHl31c3Q-wBi7s3bkt75FdSc_j8TsM_mZtXc_9Tm6xO9YApaZJ5D9cwBndWmT8n8UMVGZ9hTCDgkN4J8Jog=s60" height="22"></a></td>
@@ -130,11 +130,11 @@ My favorite chrome extensions
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/edacconmaakjimmfgnblocblbcdcpbko"><img src="https://lh3.googleusercontent.com/zazW2wMEVcOpHAPq-MqRI_7aq6Oy0nqz5BT5QkySaxCqwSfSv1rl0EwYCSMpcWoMJzJcm3e6yDNtPWNq7xO7CdFuFQ=s60" height="22"></a></td>
-      <td><a href="https://chrome.google.com/webstore/detail/edacconmaakjimmfgnblocblbcdcpbko">Session Buddy</a></td>
+      <td><a href="https://chrome.google.com/webstore/detail/edacconmaakjimmfgnblocblbcdcpbko">Session Buddy - Tab & Bookmark Manager</a></td>
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/iogidnfllpdhagebkblkgbfijkbkjdmm"><img src="https://lh3.googleusercontent.com/rCAYl7Qa-Yk5ZSMkPoYTEfT4Wl7a9llh0-oyTams8f-l1z9VemxR9U41xhAaBCCB2jw-Z2f_VDSlYDA8KF01PKWt9Wk=s60" height="22"></a></td>
-      <td><a href="https://chrome.google.com/webstore/detail/iogidnfllpdhagebkblkgbfijkbkjdmm">Stream Recorder</a></td>
+      <td><a href="https://chrome.google.com/webstore/detail/iogidnfllpdhagebkblkgbfijkbkjdmm">Stream Recorder - HLS & m3u8 Video Downloader</a></td>
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/clngdbkpkpeebahjckkjfobafhncgmne"><img src="https://lh3.googleusercontent.com/2K8pc_5-2DkPam9b3oAWoITZ7IuIz68A5a8Ssg2_MNNHTPWPOPSBVTFdTmeVu9hi8GJxpKbvTekgwpeyGV6vXyBKH80=s60" height="22"></a></td>
@@ -142,7 +142,7 @@ My favorite chrome extensions
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm"><img src="https://lh3.googleusercontent.com/MPE3_HeeIE8t_fWtyoZvtvUXwJLn1BxQZRVIQR9FRpVC7iKS3C5p6td7CAVyIAlEP_tljLwJ-pWMIxuJiHKnxT-YDA=s60" height="22"></a></td>
-      <td><a href="https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm">Talend API Tester</a></td>
+      <td><a href="https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm">Talend API Tester - Free Edition</a></td>
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo"><img src="https://lh3.googleusercontent.com/zoY8FwoOqPlBgFxcmFdNSK2Q4CcLmv-gw7vTjF2KMR9cEabwBsGNrHBTEMitn0Ba6OmCVJ0NcLnFGu3N97BP8Phu0g=s60" height="22"></a></td>
@@ -162,7 +162,7 @@ My favorite chrome extensions
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/djflhoibgkdhkhhcedjiklpkjnoahfmg"><img src="https://lh3.googleusercontent.com/3ReAyr8mN30UHplkYGcG5TLs8TO55q0ovp2EAWUPCjbE2VGlKOKhsUQ13xBrUOTFHsrhi4EqDHD1BU2xaO8R0goJdPk=s60" height="22"></a></td>
-      <td><a href="https://chrome.google.com/webstore/detail/djflhoibgkdhkhhcedjiklpkjnoahfmg">User-Agent Switcher</a></td>
+      <td><a href="https://chrome.google.com/webstore/detail/djflhoibgkdhkhhcedjiklpkjnoahfmg">User-Agent Switcher for Chrome</a></td>
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/jghecgabfgfdldnmbfkhmffcabddioke"><img src="https://lh3.googleusercontent.com/KVGRNfHgQNl3RtCAnq4bTHM23198SfyCES7LnrxnSp21B5xQ2WKRLpIMxaPSYYH0Xp99auk5OQQ6QHjpOL3OvqUi=s60" height="22"></a></td>
@@ -174,7 +174,7 @@ My favorite chrome extensions
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/gppongmhjkpfnbhagpmjfkannfbllamg"><img src="https://lh3.googleusercontent.com/Ha_EGIePt_To3ErkPwaLigbdQbiTaJpWneU7Z3iNFspWfRoEEPH4tp61DC_nyXqrAaDfpdXdVg0lfKq_0d9PnnqiDpw=s60" height="22"></a></td>
-      <td><a href="https://chrome.google.com/webstore/detail/gppongmhjkpfnbhagpmjfkannfbllamg">Wappalyzer</a></td>
+      <td><a href="https://chrome.google.com/webstore/detail/gppongmhjkpfnbhagpmjfkannfbllamg">Wappalyzer - Technology profiler</a></td>
     </tr>
     <tr>
       <td><a href="https://chrome.google.com/webstore/detail/hkligngkgcpcolhcnkgccglchdafcnao"><img src="https://lh3.googleusercontent.com/KYBzL2C9gdO9Mb2EJoCEOJSoFvO0lsEWSacuDQqJOxtlQdkYxvUwV3DfF7fYtZfdmwHDhZHVzgo3_Aj4rqi5XHg=s60" height="22"></a></td>
