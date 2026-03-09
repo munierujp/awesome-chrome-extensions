@@ -6,7 +6,7 @@ My favorite chrome extensions
   <thead>
     <tr>
       <th>
-        <!--アイコン-->
+        <!-- Icon -->
       </th>
       <th>Name</th>
     </tr>
