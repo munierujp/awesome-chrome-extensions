@@ -137,6 +137,11 @@ My favorite chrome extensions
       <td><a href="https://chrome.google.com/webstore/detail/iogidnfllpdhagebkblkgbfijkbkjdmm">Stream Recorder - HLS & m3u8 Video Downloader</a></td>
     </tr>
     <tr>
+      <td><a href="https://chromewebstore.google.com/detail/streaming-enhanced-netfli/akaimhgappllmlkadblbdknhbfghdgle"><img src="https://lh3.googleusercontent.com/qfU5duo5GOex4pdR2gFQpnXdQwASKCgb1maBFi1YYAj76HO6V95DGkJnmYA9HwnNTF2TvnNyx1GapRtqbzwJS8bQlA=s120" height="18"></a></td>
+      <td><a href="https://chromewebstore.google.com/detail/streaming-enhanced-netfli/akaimhgappllmlkadblbdknhbfghdgle">Streaming enhanced Netflix Disney Prime Video
+</a></td>
+    </tr>
+    <tr>
       <td><a href="https://chrome.google.com/webstore/detail/clngdbkpkpeebahjckkjfobafhncgmne"><img src="https://lh3.googleusercontent.com/2K8pc_5-2DkPam9b3oAWoITZ7IuIz68A5a8Ssg2_MNNHTPWPOPSBVTFdTmeVu9hi8GJxpKbvTekgwpeyGV6vXyBKH80=s60" height="18"></a></td>
       <td><a href="https://chrome.google.com/webstore/detail/clngdbkpkpeebahjckkjfobafhncgmne">Stylus</a></td>
     </tr>
