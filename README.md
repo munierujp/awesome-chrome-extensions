@@ -21,6 +21,10 @@ My favorite chrome extensions
       <td><a href="https://chrome.google.com/webstore/detail/lhobafahddgcelffkeicbaginigeejlf">Allow CORS: Access-Control-Allow-Origin</a></td>
     </tr>
     <tr>
+      <td><a href="https://chromewebstore.google.com/detail/gmljpedhelhmmfeidfedliocemknlgmb"><img src="https://lh3.googleusercontent.com/K835v-6EjdoyCJNMrf_lpdMRKlgSflD1JRKy64H8-UW-q9NAffqOiAF4KU7YjQGa6ydlBzXZ2NhX8tDZGllWm5plog=s120" height="18"></a></td>
+      <td><a href="https://chromewebstore.google.com/detail/gmljpedhelhmmfeidfedliocemknlgmb">Auto Google Meet Window Closer</a></td>
+    </tr>
+    <tr>
       <td><a href="https://chromewebstore.google.com/detail/pnpkddhaeadgjpmmcahamnicmplobkci"><img src="https://lh3.googleusercontent.com/SwEcn-FkHl31c3Q-wBi7s3bkt75FdSc_j8TsM_mZtXc_9Tm6xO9YApaZJ5D9cwBndWmT8n8UMVGZ9hTCDgkN4J8Jog=s60" height="18"></a></td>
       <td><a href="https://chromewebstore.google.com/detail/pnpkddhaeadgjpmmcahamnicmplobkci">Auto hide next up card for Amazon Prime Video</a></td>
     </tr>
