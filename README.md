@@ -129,10 +129,6 @@ My favorite chrome extensions
       <td><a href="https://chromewebstore.google.com/detail/ruffle-flash-emulator/donbcfbmhbcapadipfkeojnmajbakjdc">Ruffle - Flash Emulator</a></td>
     </tr>
     <tr>
-      <td><a href="https://chromewebstore.google.com/detail/gabfmnliflodkdafenbcpjdlppllnemd"><img src="https://lh3.googleusercontent.com/SwEcn-FkHl31c3Q-wBi7s3bkt75FdSc_j8TsM_mZtXc_9Tm6xO9YApaZJ5D9cwBndWmT8n8UMVGZ9hTCDgkN4J8Jog=s60" height="18"></a></td>
-      <td><a href="https://chromewebstore.google.com/detail/gabfmnliflodkdafenbcpjdlppllnemd">Save image as Type</a></td>
-    </tr>
-    <tr>
       <td><a href="https://chrome.google.com/webstore/detail/edacconmaakjimmfgnblocblbcdcpbko"><img src="https://lh3.googleusercontent.com/zazW2wMEVcOpHAPq-MqRI_7aq6Oy0nqz5BT5QkySaxCqwSfSv1rl0EwYCSMpcWoMJzJcm3e6yDNtPWNq7xO7CdFuFQ=s60" height="18"></a></td>
       <td><a href="https://chrome.google.com/webstore/detail/edacconmaakjimmfgnblocblbcdcpbko">Session Buddy - Tab & Bookmark Manager</a></td>
     </tr>
