@@ -89,10 +89,6 @@ My favorite chrome extensions
       <td><a href="https://chromewebstore.google.com/detail/linkclump-plus/ainlglbojoodfdbndbfofojhmjbmelmm">Linkclump Plus</a></td>
     </tr>
     <tr>
-      <td><a href="https://chrome.google.com/webstore/detail/idgpnmonknjnojddfkpgkljpfnnfcklj"><img src="https://lh3.googleusercontent.com/C7f0yxnCB_U4uAiHoPN2vHGzDH5VrN8R1h0WAPEMBJIWtJUtzs8VoI2TyqqLOs_m0ZFdlmBCGCot5_t5rjZ2qJiK8g=s60" height="18"></a></td>
-      <td><a href="https://chrome.google.com/webstore/detail/idgpnmonknjnojddfkpgkljpfnnfcklj">ModHeader - Modify HTTP headers</a></td>
-    </tr>
-    <tr>
       <td><a href="https://chrome.google.com/webstore/detail/dnclbikcihnpjohihfcmmldgkjnebgnj"><img src="https://lh3.googleusercontent.com/eNX8Xtj8jWiGl0kKnCnPb3TJodYisL-BzMG3MOIThtCYcVWspJ8BoTOXEEu2wiSuwAJftEquZ0je_9LTROH94vT6-w=s60" height="18"></a></td>
       <td><a href="https://chrome.google.com/webstore/detail/dnclbikcihnpjohihfcmmldgkjnebgnj">Mouse Dictionary</a></td>
     </tr>
